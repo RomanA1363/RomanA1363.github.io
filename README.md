@@ -13,7 +13,7 @@ E-Mail: [r.khmaladze@gmail.com](mailto:r.khmaladze@gmail.com)
 
 - U.S. Citizen
 - [LinkedIn public profile](http://www.linkedin.com/in/romankhmaladze)
-- BS Degreein Computer Science
+- BS Degree in Computer Science
 
 ### Professional Summary
 

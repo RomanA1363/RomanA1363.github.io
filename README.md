@@ -1,13 +1,13 @@
-| Roman R. Khmaladze Professional Resume | 2023 |
-| --- | --- |
+# Roman R. Khmaladze
 
-![](RackMultipart20230723-1-g7nhpx_html_e175e693dbe4b4dd.jpg) **Roman R. Khmaladze**
+
+![](RackMultipart20230723-1-g7nhpx_html_e175e693dbe4b4dd.jpg)
 
 **Principal Enterprise Healthcare Architect – Big Data, Applications, and Interoperability**
 
 Mobile : +1 443.547.5874
 
-[548](https://maps.google.com/maps?hl=en&q=sykesville,+md&ie=UTF-8&hq=&hnear=0x89c825a803d10e75:0x8485decf2c9e21dc,Sykesville,+MD&gl=us&ei=oc_UUNTvDqm50AHC-IHoDg&ved=0CIYBELYD) Houck Rd. Westminster, MD, 21157
+[548 Houck Rd., Westminster, MD, 21157](https://maps.google.com/maps?hl=en&q=sykesville,+md&ie=UTF-8&hq=&hnear=0x89c825a803d10e75:0x8485decf2c9e21dc,Sykesville,+MD&gl=us&ei=oc_UUNTvDqm50AHC-IHoDg&ved=0CIYBELYD)
 
 E-Mail: [r.khmaladze@gmail.com](mailto:r.khmaladze@gmail.com)
 
@@ -15,7 +15,7 @@ E-Mail: [r.khmaladze@gmail.com](mailto:r.khmaladze@gmail.com)
 - [LinkedIn public profile](http://www.linkedin.com/in/romankhmaladze)
 - BS Degreein Computer Science
 
-Professional Summary
+### Professional Summary
 
 - Enterprise-Level contributor and business roadmap influencer
 - Expert knowledge of modern SOA software design concepts and development methodologies such as Agile with sharp focus on security and performance, backed by more, then 25 years of successful career in Information Technology Projects Leadership, Enterprise-Scale Software Architecture including Microservice Architecture, Pre-Sales, Medical Informatics, Care Management, Data Mining, Data Architecture and Modeling, Data Migration (including ETL's), Data Mapping and Transformation, Development, Deployment and Support.

@@ -7,7 +7,7 @@
 
 Mobile : +1 443.547.5874
 
-[548 Houck Rd., Westminster, MD, 21157](https://maps.google.com/maps?hl=en&q=sykesville,+md&ie=UTF-8&hq=&hnear=0x89c825a803d10e75:0x8485decf2c9e21dc,Sykesville,+MD&gl=us&ei=oc_UUNTvDqm50AHC-IHoDg&ved=0CIYBELYD)
+548 Houck Rd., Westminster, MD, 21157
 
 E-Mail: [r.khmaladze@gmail.com](mailto:r.khmaladze@gmail.com)
 
